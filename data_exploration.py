@@ -19,7 +19,7 @@ pd.set_option('display.max_rows',None)
 # IMPORT DATA
 
 # Create a SQL connection to our SQLite database
-dbfile = './Marketing_DS_task_1.db'
+dbfile = './data.db'
 con = sqlite3.connect(dbfile)
 cur = con.cursor()
 

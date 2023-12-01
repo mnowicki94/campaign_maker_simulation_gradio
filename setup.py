@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='huuuge_games_task',
+    name='campaign_maker',
     version='1',
     packages=[''],
     url='',
